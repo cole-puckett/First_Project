@@ -19,6 +19,6 @@ This is a simple C++ program that calculates the average of the grades entered b
 
 ## How to Run
 Compile and run using any C++ compiler:
-g++ GradeCalculator.cpp -o grade_calculator
+g++ -std=c++23 GradeCalculator.cpp -o grade_calculator
 
 ./grade_calculator
